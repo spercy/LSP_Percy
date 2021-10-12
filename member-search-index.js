@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.howard.edu.lsp.assignment3.javadocs","c":"javadoc","l":"javadoc()","u":"%3Cinit%3E()"}];updateSearchResults();
